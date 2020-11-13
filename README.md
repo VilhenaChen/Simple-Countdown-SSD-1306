@@ -1,4 +1,4 @@
-# Simples Countdown with OLED SSD 1306
+# Simple Countdown with OLED SSD 1306
 Just a simple Countdown using an Arduino and an OLED SSD 1306, a nice and simple example to learn the basics of the OLED Screen
 
 ## Parts needed:
